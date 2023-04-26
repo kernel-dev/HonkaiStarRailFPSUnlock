@@ -13,3 +13,7 @@ For reasons unknown to me, raising this threshold above 120FPS through the Windo
 Firstly, clone/download the repository.
 
 After that, either run the executable from within `bin`, or install dependencies (`<python> -m pip install -r requirements.txt`) and run `<python> unlocker/main.py`. That's all!
+
+# DISCLAIMER !
+
+I do not hold any accountability for what may happen to your account as a consequence of applying this patch. It is unknown whether or not this can trigger the AC, so please be wary and use it at your own risk.
