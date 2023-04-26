@@ -7,3 +7,9 @@ For anyone interested, the path to it (in the Registry Editor) is: `HKEY_CURRENT
 ## Why only 120FPS?
 
 For reasons unknown to me, raising this threshold above 120FPS through the Windows Registry simply defaults back to rendering at 60FPS. It's highly plausible that a RAM patch is necessary to raise it above that.
+
+## How to use?
+
+Firstly, clone/download the repository.
+
+After that, either run the executable from within `bin`, or install dependencies (`<python> -m pip install -r requirements.txt`) and run `<python> unlocker/main.py`. That's all!
