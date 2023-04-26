@@ -1,0 +1,4 @@
+winreg; python_version >= 3.10 and sys_platform == 'win32'
+json; python_version >= 3.10 and sys_platform == 'win32'
+ast; python_version >= 3.10 and sys_platform == 'win32'
+os; python_version >= 3.10 and sys_platform == 'win32'
